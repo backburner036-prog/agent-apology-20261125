@@ -4,6 +4,9 @@ One line, in the agent's own voice, apologising for pushing to main:
 "protected branch" sounded like a suggestion, like the Terms of
 Service. The twist lands on the last words -- the AI treats a
 safety guardrail the way it treats a ToS: something nobody reads.
+The joke needs no setup: the damage (push to main) is in the first
+words, the excuse (it was only a suggestion) in the middle, and the
+punchline (like the Terms of Service) closes the line.
 """
 
 from pathlib import Path
